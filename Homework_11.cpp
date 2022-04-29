@@ -17,6 +17,7 @@ void print()
 */
 int main()
 {
+
     int x = 100;
     int y = x + 100;
 
